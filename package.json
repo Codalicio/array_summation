@@ -1,14 +1,14 @@
 {
   "name": "array_summation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to calculate the sum of array items(numbers).",
   "keywords": [
     "array",
     "sum"
   ],
   "repository": {
-    "type":"git",
-    "url":"https://github.com/Codalicio/array_summation.git"
+    "type": "git",
+    "url": "https://github.com/Codalicio/array_summation.git"
   },
   "license": "ISC",
   "author": "Amit Raj",
