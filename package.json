@@ -6,6 +6,10 @@
     "array",
     "sum"
   ],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Codalicio/array_summation.git"
+  },
   "license": "ISC",
   "author": "Amit Raj",
   "type": "commonjs",
