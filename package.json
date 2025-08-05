@@ -1,0 +1,16 @@
+{
+  "name": "array_summation",
+  "version": "1.0.0",
+  "description": "A package to calculate the sum of array items(numbers).",
+  "keywords": [
+    "array",
+    "sum"
+  ],
+  "license": "ISC",
+  "author": "Amit Raj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
