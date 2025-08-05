@@ -4,3 +4,5 @@ function sum(arr, initialValue = 0) {
     initialValue
   );
 }
+
+export default sum;
