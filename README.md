@@ -8,7 +8,7 @@ Note : Array items other than the number type gets converted to number zero(0).
 
 import sum from "array_summation";
 
-consol.log(sum([1, 2, "amit", {lastname: "raj"}, true, 30, [], 100], 200));
+console.log(sum([1, 2, "amit", {lastname: "raj"}, true, 30, [], 100], 200));
 
 ---
 
