@@ -1,4 +1,4 @@
-A Jacvascript function to find the sum of the array items(numbers only).
+A regular Javascript function to find the sum of the array items(numbers only).
 
 Note : Array items other than the number type gets converted to number zero(0).
 
